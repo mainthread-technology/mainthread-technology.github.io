@@ -114,16 +114,3 @@ body {
     background-image: url("images/preview_framed.png");
     background-repeat: no-repeat;
 }
-
-#privacy {
-    width: 600px;
-    color: #444;
-    font-family: "Alegreya Sans";
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 26px;
-}
-  #privacy a {
-      color: #356AA0;
-      text-decoration: none;
-  }
