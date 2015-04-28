@@ -1,0 +1,5 @@
+WAIT=5       # Wait 5 seconds
+TIMEOUT=10   # Timeout after 10 seconds
+ATTEMPTS=3   # Attempt checks 3 times
+
+/ Main Thread Technology
